@@ -119,8 +119,7 @@ Output: "progamin"
 
 GitHub Repository: https://github.com/lakshmilavanya090503-a11y/PlatinumRx_Assignment.git
 
-Spreadsheet Link:
-(Add Google Sheets link if applicable)
+Spreadsheet File: Available in repository under /Spreadsheets/Ticket_Analysis.xlsx
 
 Screen Recording:
 (Add Drive recording link)
