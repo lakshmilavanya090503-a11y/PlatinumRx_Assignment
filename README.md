@@ -117,8 +117,7 @@ Output: "progamin"
 
 📎 Submission Links
 
-GitHub Repository:
-(Add your repository link here)
+GitHub Repository: https://github.com/lakshmilavanya090503-a11y/PlatinumRx_Assignment.git
 
 Spreadsheet Link:
 (Add Google Sheets link if applicable)
