@@ -128,8 +128,7 @@ Screen Recording:
 
 👩‍💻 Author
 
-Lakshmi Lavanya
-Data Analyst Aspirant
+Lakshmi Lavanya | Data Analyst Aspirant
 
 ---
 
