@@ -119,7 +119,7 @@ Output: "progamin"
 
 GitHub Repository: https://github.com/lakshmilavanya090503-a11y/PlatinumRx_Assignment.git
 
-Spreadsheet Link: https://docs.google.com/spreadsheets/d/1NnfuDftVJj65xdLe3fwCv7FpuaSA_sUS/edit?usp=drive_link&ouid=113733036490155949519&rtpof=true&sd=true
+Spreadsheet Link: https://docs.google.com/spreadsheets/d/1ETdOQmtqpHtvFVufRPd6NGD_4W3VD_5Y/edit?usp=drive_link&ouid=113733036490155949519&rtpof=true&sd=true
 
 Screen Recording: https://drive.google.com/file/d/1ZVrdizS1hc-MZxwogpw9CqR2foDCSTp2/view?usp=drive_link
 
